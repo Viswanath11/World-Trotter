@@ -3,7 +3,7 @@
 //  WorldTrotterTests
 //
 //  Created by Viswanath Subramani S S on 06/10/17.
-//  Copyright © 2017 BNRGuide. All rights reserved.
+//  Copyright © 2017 viswanathsubramaniss. All rights reserved.
 //
 
 import XCTest
