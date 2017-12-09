@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "is"; ObjectID = "1qa-Y2-ULA"; */
+"1qa-Y2-ULA.text" = "है";
+
+/* Class = "UILabel"; text = "degree Celsius"; ObjectID = "3pj-LC-bjt"; */
+"3pj-LC-bjt.text" = "डिग्री सेल्सियस";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "Alz-As-Kj3"; */
+"Alz-As-Kj3.title" = "बदलना";
+
+/* Class = "UITextField"; placeholder = "???"; ObjectID = "EuI-q4-5JG"; */
+"EuI-q4-5JG.placeholder" = "???";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "T5F-7p-Ijg"; */
+"T5F-7p-Ijg.title" = "नक्शा";
+
+/* Class = "UILabel"; text = "???"; ObjectID = "UfK-sC-bgA"; */
+"UfK-sC-bgA.text" = "???";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "XgP-i5-0GB"; */
+"XgP-i5-0GB.text" = "डिग्री फ़ारेनहाइट";
+
+/* Class = "UITabBarItem"; title = "Web"; ObjectID = "oFw-eb-cWj"; */
+"oFw-eb-cWj.title" = "वेब";
